@@ -27,4 +27,4 @@ La struture des données est accessible sur le lien suivant: http://localhost:88
 <img src="/captures/6.png">
 
 ## Test avec un client SOAP Java
-<img src="/captures/7.png">
+<img src="/captures/1.png">
